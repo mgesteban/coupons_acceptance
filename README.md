@@ -21,7 +21,7 @@ While proximity triggers coupon delivery, acceptance rates vary significantly. U
 
 | Dimension | Factors | Research Questions |
 |-----------|---------|-------------------|
-| ** User Profile** | • Age<br>• Gender<br>• Income<br>• Education<br>• Marital Status<br>• Children | How do demographic characteristics influence coupon acceptance rates? |
-| ** Venue Type** | • Restaurants <$20<br>• Restaurants $20-50<br>• Coffee Houses<br>• Bars<br>• Takeout | Which venue types have highest acceptance? How do they differ? |
-| ** Context** | • Weather<br>• Time<br>• Temperature<br>• Destination<br>• Passengers | What situational factors drive acceptance decisions? |
-| ** Behavior** | • Visit Frequency<br>• Dining Habits | Do lifestyle patterns predict coupon usage? |
+| **User Profile** | • Age<br>• Gender<br>• Income<br>• Education<br>• Marital Status<br>• Children | How do demographic characteristics influence coupon acceptance rates? |
+| **Venue Type** | • Restaurants <$20<br>• Restaurants $20-50<br>• Coffee Houses<br>• Bars<br>• Takeout | Which venue types have highest acceptance? How do they differ? |
+| **Context** | • Weather<br>• Time<br>• Temperature<br>• Destination<br>• Passengers | What situational factors drive acceptance decisions? |
+| **Behavior** | • Visit Frequency<br>• Dining Habits | Do lifestyle patterns predict coupon usage? |

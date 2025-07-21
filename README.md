@@ -25,3 +25,14 @@ While proximity triggers coupon delivery, acceptance rates vary significantly. U
 | **Venue Type** | • Restaurants <$20<br>• Restaurants $20-50<br>• Coffee Houses<br>• Bars<br>• Takeout | Which venue types have highest acceptance? How do they differ? |
 | **Context** | • Weather<br>• Time<br>• Temperature<br>• Destination<br>• Passengers | What situational factors drive acceptance decisions? |
 | **Behavior** | • Visit Frequency<br>• Dining Habits | Do lifestyle patterns predict coupon usage? |
+
+# Coupon Acceptance Analysis
+
+## Executive Summary
+This analysis reveals that **social context is the strongest predictor of coupon acceptance**, with acceptance rates increasing by 15-20% when drivers have passengers. Budget-conscious venues (restaurants <$20) show the highest acceptance rates (70%+), while bar coupons require careful targeting based on age, social context, and lifestyle factors.
+
+## Key Findings
+- Overall acceptance rate: 56.84%
+- Best performing: Restaurant(<$20) coupons with friends (80.1% acceptance)
+- Worst performing: Bar coupons with kids as passengers (<30% acceptance)
+- Temperature and weather have minimal impact on acceptance decisions
